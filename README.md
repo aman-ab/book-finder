@@ -1,6 +1,6 @@
-# Book Search App
+# Book Finder App
 
-A simple book search app made with React + Vite.
+A simple book finder app made with React + Vite.
 Uses the Open Library Search API (free, no api key needed).
 
 ## How to run
